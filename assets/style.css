@@ -1,0 +1,31 @@
+.cell {
+  display: inline-block;
+  width: 10%;
+  margin-right: -1px;
+  height: 40px;
+  border: 1px solid black;
+  border-radius: 8px;
+  align-content: center;
+  text-align: center;
+  cursor: pointer;
+}
+
+.numstyle {
+  font-size: 26px;
+  margin: 0;
+}
+
+#bottone {
+  cursor: pointer;
+  background-color: yellow;
+  color: black;
+  border: 1px solid black;
+  width: fit-content;
+  min-height: 36px;
+  font-weight: 700;
+  margin: 1rem;
+}
+
+.estratto {
+  background-color: yellow;
+}
