@@ -29,3 +29,32 @@
 .estratto {
   background-color: yellow;
 }
+
+#bottone-caselline {
+  cursor: pointer;
+  background-color: yellow;
+  color: black;
+  border: 1px solid black;
+  width: fit-content;
+  min-height: 36px;
+  font-weight: 700;
+  margin: 1rem;
+}
+
+#numero {
+  display: inline-block;
+  font-size: large;
+  font-weight: 600;
+}
+
+.separatore {
+  display: inline-block;
+  margin-right: 8px;
+  font-size: x-large;
+  font-weight: 600;
+}
+
+hr {
+  margin-block: 10px;
+  border: 0px;
+}
